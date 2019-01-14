@@ -3,24 +3,22 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [iamagarwalsumit@gmail.com](mailto:iamagarwalsumit@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+91-7278334160](tel:+91-7278334160)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+B-407, VRR Heritage
+Doddanekundi, Bangalore - 560037
+India
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://facebook.com/iamagarwalsumit)
+2. [Twitter](https://facebook.com/meagarwalsumit)
+3. [LinkedIn](https://linked.com/in/iamagarwalsumit)

@@ -22,4 +22,7 @@ My research interests lies at the confluence of Deep Learning and Natural Langua
 
 ## Publications
 
-- *CommBox: Utilizing Sensors for Real-Time Cricket Shot Identification & Commentary Generation* **[Best Academic Demo]**, **Sumit Agarwal**, Ashish Sharma, Jatin Arora, Pritam Khan, Sidhartha Satapathy, Sumit Agarwal, Satadal Sengupta, Sankarshan Mridha and Niloy Ganguly, Demo & Exhibits Session, 9th International Conference on Communication Systems & Networks (COMSNETS’17) \[[video](https://www.youtube.com/watch?v=X4mZVrhCy1Y)\] \[[code](https://github.com/iamagarwalsumit/CommBox-Cricket-shot-Identification-and-Commentary-Generation-using-Sensors)\] \[[pdf](papers/COMSNETS-CommBox.pdf)\].
+- *SLANT+: A Nonlinear Model for Opinion Dynamics in Social Networks*, **Sumit Agarwal**, Bhushan Kulkarni, Abir De, Sourangshu Bhattacharya, Niloy Ganguly, IEEE International Conference on Data Mining (ICDM’17)
+\[[code](https://www.youtube.com/watch?v=X4mZVrhCy1Y)\]
+\[[pdf](papers/SLANT+.pdf)\].
+- *CommBox: Utilizing Sensors for Real-Time Cricket Shot Identification & Commentary Generation* **[Best Academic Demo]**, **Sumit Agarwal**, Ashish Sharma, Jatin Arora, Pritam Khan, Sidhartha Satapathy, Satadal Sengupta, Sankarshan Mridha and Niloy Ganguly, Demo & Exhibits Session, 9th International Conference on Communication Systems & Networks (COMSNETS’17) \[[video](https://www.youtube.com/watch?v=X4mZVrhCy1Y)\] \[[code](https://github.com/iamagarwalsumit/CommBox-Cricket-shot-Identification-and-Commentary-Generation-using-Sensors)\] \[[pdf](papers/COMSNETS-CommBox.pdf)\].
