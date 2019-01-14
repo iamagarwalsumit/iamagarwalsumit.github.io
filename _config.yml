@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Sumit Agarwal
+url: "https://iamagarwalsumit.github.io"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: ""
+footer_text: ""
 
 sass:
     style: compressed
@@ -17,8 +17,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "resume_sumit_agarwal.pdf"
  - name: "Contact"
    link: "contact"
+
+theme: jekyll-theme-slate
