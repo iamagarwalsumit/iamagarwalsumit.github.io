@@ -22,5 +22,7 @@ nav:
    link: "resume_sumit_agarwal.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Github"
+   link: "https://github.com/iamagarwalsumit"
 
 theme: jekyll-theme-slate
