@@ -6,9 +6,12 @@ layout: default
 
 <img class="profile-picture" src="sumit.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+A SOCIAL ANIMAL
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+A B.TECH GRADUATE FROM THE DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, INDIAN INSTITUTE OF TECHNOLOGY,KHARAGPUR, I KEEP A KNACK IN PROGRAMMING ESPECIALLY IN AREAS OF MACHINE LEARNING, DEEP LEARNING AND NATURAL LANGUAGE PROCESSING. A FOODIE AT HEART, I ALSO LOVE TO ACT, ELOCUTE, SING, DANCE, CLICK PICTURES AND AN ADMIRER OF HINDI PROSE AND POETRY.
+
+खुद ही को कर बुलंद इतना हर तक़दीर से पहले,
+कि ख़ुदा खुद बन्दे से पूछे बता तेरी रज़ा क्या है |
 
 ## Research Interest
 
