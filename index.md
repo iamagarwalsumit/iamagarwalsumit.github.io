@@ -6,9 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sumit.jpg">
 
-A SOCIAL ANIMAL
-
-A B.TECH GRADUATE FROM THE DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, INDIAN INSTITUTE OF TECHNOLOGY,KHARAGPUR, I KEEP A KNACK IN PROGRAMMING ESPECIALLY IN AREAS OF MACHINE LEARNING, DEEP LEARNING AND NATURAL LANGUAGE PROCESSING. A FOODIE AT HEART, I ALSO LOVE TO ACT, ELOCUTE, SING, DANCE, CLICK PICTURES AND AN ADMIRER OF HINDI PROSE AND POETRY.
+I am currently employed as a Software Engineer at Samsung Electronics, Bangalore and work closely with the Voice Assistant, Bixby team. A B.Tech graduate from the department of Computer Science & Engineering, Indian Institute of Technology, Kharagpur, I keep a knack in programming especially in areas of Machine Learning, deep learning and natural language processing. A foodie at heart, I also love to act, elocute, sing, dance, click pictures and an admirer of Hindi prose and poetry.
 
 खुद ही को कर बुलंद इतना हर तक़दीर से पहले,
 कि ख़ुदा खुद बन्दे से पूछे बता तेरी रज़ा क्या है |
