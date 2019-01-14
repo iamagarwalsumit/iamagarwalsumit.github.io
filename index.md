@@ -1,46 +1,25 @@
 ---
 layout: default
 ---
+<br>
 
-## About Me
+## Hola!
 
 <img class="profile-picture" src="sumit.jpg">
 
-I am currently employed as a Software Engineer at Samsung Electronics, Bangalore and work closely with the Voice Assistant, Bixby team. A B.Tech graduate from the department of Computer Science & Engineering, Indian Institute of Technology, Kharagpur, I keep a knack in programming especially in areas of Machine Learning, deep learning and natural language processing. A foodie at heart, I also love to act, elocute, sing, dance, click pictures and an admirer of Hindi prose and poetry.
+I am a Software Engineer at Samsung Electronics, Bangalore and work closely with the Voice Assistant, Bixby team. A B.Tech graduate from the department of Computer Science & Engineering, Indian Institute of Technology, Kharagpur, I keep a knack in programming especially in areas of Machine Learning, Deep learning and Natural Language Processing. A foodie at heart, I also love to act, elocute, sing, dance, click pictures and an admirer of Hindi prose and poetry.
 
 खुद ही को कर बुलंद इतना हर तक़दीर से पहले,
 कि ख़ुदा खुद बन्दे से पूछे बता तेरी रज़ा क्या है |
 
-## Research Interest
+<br>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Research Interests
+
+My research interests lies at the confluence of Deep Learning and Natural Language Processing, especially applications of Deep Learning in NLP tasks.
+
+<br>
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+- *CommBox: Utilizing Sensors for Real-Time Cricket Shot Identification & Commentary Generation* **[Best Academic Demo]**, **Sumit Agarwal**, Ashish Sharma, Jatin Arora, Pritam Khan, Sidhartha Satapathy, Sumit Agarwal, Satadal Sengupta, Sankarshan Mridha and Niloy Ganguly, Demo & Exhibits Session, 9th International Conference on Communication Systems & Networks (COMSNETS’17) \[[video](https://www.youtube.com/watch?v=X4mZVrhCy1Y)\] \[[code](https://github.com/iamagarwalsumit/CommBox-Cricket-shot-Identification-and-Commentary-Generation-using-Sensors)\] \[[pdf](papers/COMSNETS-CommBox.pdf)\].
