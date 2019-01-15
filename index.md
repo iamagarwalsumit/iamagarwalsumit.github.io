@@ -50,7 +50,7 @@ My research interests lies at the confluence of Deep Learning and Natural Langua
 - Worked with the Samsung Pay (Samsung's digital wallet) team on the UPI interface.
 - Worked on sms mining and extracting information from transaction messages using basic classification and NLP techniques.
 
-### National Digital Library | Software Developer Inter
+### National Digital Library | Software Developer Intern
 #### May'15 - Jul'15 | Kharagpur, India | [https://ndl.iitkgp.ac.in](https://ndl.iitkgp.ac.in)
 
 - Worked on building a search engine for the National Digital Library using Apache Solr as the backbone.
