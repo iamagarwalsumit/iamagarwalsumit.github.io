@@ -28,6 +28,18 @@ My research interests lies at the confluence of Deep Learning and Natural Langua
 
 <br>
 
+## Experience
+
+### Samsung | Software Engineer
+
+#### Jun'17 - Present | Bangalore,India
+
+- Currently working as part of Bixby(Voice Assistant of Samsung) to enable consistent multi device experience across devices(TV, mobile, speaker).
+- Worked for Bixby 2.0 which used random forests for utterance classification and dynamically generated plans based on the utterance’s context.
+- In Bixby 1.0,Convolutional Neural Networks(CNN) was used for classification and attention mechanism coupled with Recurrent Neural Networks(RNN) was used for resolving the utterance’s context.
+
+<br>
+
 ## Awards & Achievements
 
 - 2017   Graduated with Department Rank of 3 and Institute Rank of 5
