@@ -25,3 +25,11 @@ My research interests lies at the confluence of Deep Learning and Natural Langua
 - *SLANT+: A Nonlinear Model for Opinion Dynamics in Social Networks*, **Sumit Agarwal**, Bhushan Kulkarni, Abir De, Sourangshu Bhattacharya, Niloy Ganguly, IEEE International Conference on Data Mining (ICDM’17)
 \[[code](https://github.com/iamagarwalsumit/SLANT-Plus)\] \[[pdf](papers/SLANT+.pdf)\].
 - *CommBox: Utilizing Sensors for Real-Time Cricket Shot Identification & Commentary Generation* **[Best Academic Demo]**, **Sumit Agarwal**, Ashish Sharma, Jatin Arora, Pritam Khan, Sidhartha Satapathy, Satadal Sengupta, Sankarshan Mridha and Niloy Ganguly, Demo & Exhibits Session, 9th International Conference on Communication Systems & Networks (COMSNETS’17) \[[video](https://www.youtube.com/watch?v=X4mZVrhCy1Y)\] \[[code](https://github.com/iamagarwalsumit/Commbox)\] \[[pdf](papers/COMSNETS-CommBox.pdf)\].
+
+<br>
+
+## Awards & Achievements
+
+- 2017   Graduated with Department Rank of 3 and Institute Rank of 5
+- 2017   2nd in Data Analytics, General Championships, IIT Kharagpur
+- 2016   3rd in Hindi Elocution, General Championships, IIT Kharagpur

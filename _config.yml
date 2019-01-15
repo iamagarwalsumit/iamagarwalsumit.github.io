@@ -5,7 +5,7 @@ baseurl: "/"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+tracking_id: UA-132449089-1
 
 footer: yes
 footer_url: ""
@@ -19,7 +19,7 @@ nav:
  - name: "About"
    link: "/"
  - name: "Resume"
-   link: "resume_sumit_agarwal.pdf"
+   link: "Resume_Sumit_Agarwal.pdf"
  - name: "Contact"
    link: "contact"
  - name: "Github"
