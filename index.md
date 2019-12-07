@@ -38,12 +38,6 @@ My research interests lies at the confluence of Deep Learning and Natural Langua
 - Worked for Bixby 2.0 which used random forests for utterance classification and dynamically generated plans based on the utterance’s context.
 - In Bixby 1.0,Convolutional Neural Networks(CNN) was used for classification and attention mechanism coupled with Recurrent Neural Networks(RNN) was used for resolving the utterance’s context.
 
-### Earnings Move | Freelance
-#### Dec'16 - Apr'16 | Kharagpur, India
-
-- Worked to develop website for Earnings Move, a US based startup, which does intelligent prediction of stock prices.
-- The website was written with AngularJS and the backend was written using DJango.
-
 ### Samsung | Software Developer Intern
 #### May'16 - Jul'16 | Bangalore, India
 
